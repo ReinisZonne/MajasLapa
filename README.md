@@ -1,1 +1,2 @@
-# MajasLapa
+# decembraUzd
+Jauna mājas lapa - decembra uzdevums
